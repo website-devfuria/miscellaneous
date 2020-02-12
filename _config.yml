@@ -1,0 +1,27 @@
+enable_disqus:    false
+enable_analytics: false
+highlighter: rouge
+permalink:   pretty
+
+exclude:
+  - anyfolder/
+
+
+# for sitemap
+_url: http://www.devfuria.com.br
+
+# email
+email: "sitedevfuria@gmail.com"
+
+exclude:
+    - readme.md
+    - .gitignore
+
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "artigo"
+
