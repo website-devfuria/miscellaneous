@@ -1,5 +1,5 @@
 ---
-layout: artigo
+layout: index
 title:  Miscellaneous
 ---
 

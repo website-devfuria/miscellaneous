@@ -162,4 +162,4 @@ permite gerar páginas dinâmicas, permitindo a um navegador passar parâmetros 
 Assim, designam-se por __scripts CGI__ os pequenos programas (veja exemplos ao longo da matéria) que interpretam esses
 parâmetros e geram a página depois de os processar.
 
-Leia mais no artigo [CGI Servindo páginas web (html)](/misc/cgi-common-gateway-interface/)
+Leia mais no artigo [CGI Servindo páginas web (html)](/../cgi-common-gateway-interface/)

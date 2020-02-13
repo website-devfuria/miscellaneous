@@ -99,4 +99,4 @@ Virtual Hosts (sites virtuais) é um recurso que permite servir mais de um site 
 diretivas específicas para o controle do site virtual, como nome do administrador, erros de acesso a página, controle de
 acesso e outros dados úteis para personalizar e gerenciar o site.
 
-Leia mais no artigo [Apache - Configurando Virtual Hosts](/misc/apache-virtual-host/)
+Leia mais no artigo [Apache - Configurando Virtual Hosts](/../apache-virtual-host/)
