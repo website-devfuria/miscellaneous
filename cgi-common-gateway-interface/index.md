@@ -42,7 +42,7 @@ tal. Acesse seu arquivo hosts no enderço `etc/hosts` (voce precisará ser root)
 
 Salve o arquivo e experimente acessar a URL `www.foo.local`, ela deve ter o mesmo resultado de `localhost`.
 
-Leio o artigo [Arquivo hosts (/etc/hosts)](/misc/arquivo-hosts/) para saber mais.
+Leio o artigo [Arquivo hosts (/etc/hosts)](/miscellaneous/arquivo-hosts/) para saber mais.
 
 
 
@@ -86,7 +86,7 @@ Crie um arquivo chamado `index.html` na pasta `/pasta/de/projetos/foo` e insira 
 
 Tente acessar o endereço `www.foo.local`, ele deve mostrar o conteúdo do arquivo HTML que acabamos de criar.
 
-Se precisar saber mais sobre Virtual Host, leia a matéria [Apache - Configurando Virtual Hosts](/misc/apache-virtual-host/).
+Se precisar saber mais sobre Virtual Host, leia a matéria [Apache - Configurando Virtual Hosts](/miscellaneous/apache-virtual-host/).
 
 
 

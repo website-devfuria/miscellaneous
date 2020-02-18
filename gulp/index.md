@@ -12,7 +12,7 @@ Ele é escrito em JavaScript e portanto necessita ter o Node.js devidamente inst
 
 ### Instalação
 
-O Gulp é uma ferramente para [Nodejs](/javascript/node.js/), logo, você deve ter o Node devidamente
+O Gulp é uma ferramenta para [Nodejs](/javascript/nodejs/), logo, você deve ter o Node devidamente
 instalado e também poderamos utilizar o __npm__ para a instalação do Gulp.
 
 Você pode realizar uma instalação global.

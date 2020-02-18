@@ -64,7 +64,7 @@ para desabilitar utilizamos o comando `a2dissite`.
 Repare que ambos os exemplos apontam para o documentroot padrão `/var/www/`, ou seja o Virtual Host não é o responsável
 pela redirecionamento. Se você configurar o Apache para um ambiente de produção você deve utilizar um
 [servidor de DNS](http://pt.wikipedia.org/wiki/Domain_Name_System), se você configurar o Apache para um
-ambiente de desenvolvimento você pode utilizar algo mais simples que um DNS, o [arquivo hots](/misc/arquivo-hosts/), por
+ambiente de desenvolvimento você pode utilizar algo mais simples que um DNS, o [arquivo hots](/miscellaneous/arquivo-hosts/), por
 exemplo.
 
 Veja mais detalhes em
@@ -88,7 +88,7 @@ Explico melhor:
 
 - A versão de __desenvolvimento__ responderá pela ULR `www.foo.local`
 
-Vamos começar alterando o [arquivo hots](/misc/arquivo-hosts/). Normalmente, ele se encontra no endereço `/etc/hosts`.
+Vamos começar alterando o [arquivo hots](/miscellaneous/arquivo-hosts/). Normalmente, ele se encontra no endereço `/etc/hosts`.
 
 O conteúdo do arquivo hosts deve ser como abaixo.
 
