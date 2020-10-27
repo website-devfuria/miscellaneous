@@ -2,6 +2,9 @@
 layout:      artigo
 title:       Gulp
 description: Rápida introdução a ferramenta de automação de tarefas Gulp (Node.js)
+redirect_from:
+  - /post/123456789/
+  - /post/123456789/my-amazing-post/
 ---
 
 O __Gulp__ é uma ferramenta que automatiza algumas tarefas do dia a dia do desenvolvimento de software. Principalmente

@@ -2,6 +2,9 @@ enable_analytics: true
 highlighter: rouge
 permalink: pretty
 
+plugins:
+  - jekyll-redirect-from
+
 dominio: devfuria.com.br
 
 defaults:
